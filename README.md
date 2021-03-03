@@ -8,12 +8,19 @@ You will need to have these tools installed for the pipeline to run correctly.
 A full list of tools to be installed and links to instructions are included here:
 
 kallisto: https://pachterlab.github.io/kallisto/source
+
 R: https://www.r-project.org/
+
 sleuth (R package): https://pachterlab.github.io/sleuth/download
+
 dplyr (R package): https://www.r-project.org/nosvn/pandoc/dplyr.html
+
 Bowtie2: http://bowtie-bio.sourceforge.net/bowtie2/manual.shtml#obtaining-bowtie-2
+
 SPAdes: https://cab.spbu.ru/files/release3.15.1/manual.html
+
 BLAST+: https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastDocs&DOC_TYPE=Download
+
 Biopython: https://biopython.org/wiki/Download
 
 
