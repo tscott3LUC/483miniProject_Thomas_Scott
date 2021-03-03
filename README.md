@@ -27,3 +27,14 @@ Biopython: https://biopython.org/wiki/Download
 This pipeline uses transcriptome data of HCMV (Human cytomegalovirus/Human herpesvirus 5) 2- and 6-days post-infection.
 The pipeline produces a variety of outputs and writes important information to a log file titled 'miniProject.log'.
 
+Aside from the Python wrapper ('MiniProject.py'), some other needed files are included.
+miniProject_sleuth is the sleuth script ran during the pipeline, with miniProject_table.txt being used in that script.
+Furthermore, a betaherpes.fasta file is included, so that a local BLAST+ database can be created for betaherpesvirinae towards the end of the pipeline.
+
+As the pipeline requires a large amount of time to run, test data that is a small subset of reads from the input data is included.
+If you would like to use the test data, simply include the testdata folder/directory in the same folder as the python wrapper ('MiniProject.py').
+If you would like to run the full pipeline, you may move or delete the testdata folder.
+
+Below are instructions on running the code once the required tools are installed:
+
+1.)
