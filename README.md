@@ -54,7 +54,7 @@ Below are instructions on running the code once the required tools are installed
 
   a.) The script will create a new directory named 'miniProject_Thomas_Scott' - this is where all pipeline results will be generated.
   
-  b.) Some files (miniProject_sleuth.R, miniProject_table.txt, betaherpes.fasta) will be copied into this directory for use during the pipeline, so you will see these in the directory as well.
+  b.) Some files (miniProject_sleuth.R, miniProject_table.txt, betaherpes.fasta) will be copied into this directory for use during the pipeline, so you will see these in the directory as well. If the test data is being used, this will be copied into the 'data' folder of the directory.
   
-6.) Important results will be written to 'miniProject.log' in the 'miniProject_Thomas_Scott' directory.
+6.) Once finished, you can find important results written to 'miniProject.log' in the 'miniProject_Thomas_Scott' directory.
 
