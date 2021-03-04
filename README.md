@@ -39,12 +39,22 @@ If you would like to run the full pipeline, you may move or delete the testdata 
 Below are instructions on running the code once the required tools are installed:
 
 1.) Be sure your present working directory is where you want to run the pipeline.
+
 2.) Clone this Github repository to your local machine using the command "git clone https://github.com/tscott3LUC/483miniproject.git"
+
   a.) If you do not have Git/Github set up, check out this link to learn about how to get started: https://docs.github.com/en/github/getting-started-with-github/set-up-git
+  
 3.) You should now see a directory named '483miniProject_Thomas_Scott.' In this directory are all the files included in this repository. Change your working directory ('cd' command) to this directory.
+
 4.) To run the pipeline, simply run the command 'python3 MiniProject.py'.
+
   a.) Again, this will run the test data, provided it has not been moved or deleted.
+  
 5.) Now you can just wait! The pipeline using test data should take less than 5 minutes. If you use the full dataset, it will take a few hours.
+
   a.) The script will create a new directory named 'miniProject_Thomas_Scott' - this is where all pipeline results will be generated.
+  
   b.) Some files (miniProject_sleuth.R, miniProject_table.txt, betaherpes.fasta) will be copied into this directory for use during the pipeline, so you will see these in the directory as well.
+  
 6.) Important results will be written to 'miniProject.log' in the 'miniProject_Thomas_Scott' directory.
+
